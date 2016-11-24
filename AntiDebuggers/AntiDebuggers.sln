@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AntiDebuggers", "AntiDebuggers\AntiDebuggers.vcxproj", "{9EC4F4A9-C3D1-4E40-AADE-F1E7DDA319DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EC4F4A9-C3D1-4E40-AADE-F1E7DDA319DA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9EC4F4A9-C3D1-4E40-AADE-F1E7DDA319DA}.Debug|Win32.Build.0 = Debug|Win32
+		{9EC4F4A9-C3D1-4E40-AADE-F1E7DDA319DA}.Release|Win32.ActiveCfg = Release|Win32
+		{9EC4F4A9-C3D1-4E40-AADE-F1E7DDA319DA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
